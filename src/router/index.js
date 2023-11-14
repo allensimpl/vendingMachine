@@ -2,6 +2,7 @@ import Vending from "../containers/user";
 import { Routes, Route, Navigate } from "react-router-dom";
 import { Front } from "../containers/front";
 import { Bill } from "../containers/bill";
+import {Cart} from 
 import Locations from "../locations";
 
 export const Router = () => {

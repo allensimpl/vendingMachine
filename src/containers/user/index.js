@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import locations from "../../locations";
 
-function Vending() {
+function User() {
 	// navigate = useNavigate()
 	useEffect(() => {
 		// navigate(locations.DASHBOARD)
@@ -18,4 +18,4 @@ function Vending() {
 	);
 }
 
-export default Vending;
+export default User;
